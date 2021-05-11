@@ -1,2 +1,3 @@
 # progressBars
-Simple progressBars
+# Simple progressBars
+# I just edited the script to work on RedM, the credits are all for the creator, I have no idea who created it to be able to mention it here...
